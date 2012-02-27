@@ -27,9 +27,6 @@ requires [matplotlib][mpl] to display the plots.
 The example uses ECG data I found on an [ECG data site][ecg].
 
 
-References
-----------
-
 [keogh]: http://www.cs.ucr.edu/~eamonn/icdm-01.pdf "Keogh et al. An Online Algorithm for Segmenting Time Series"
 [numpy]: http://numpy.scipy.org "NumPy"
 [mpl]: http://matplotlib.sourceforge.net "Matplotlib"
