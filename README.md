@@ -16,7 +16,7 @@ experimenting and data exploration.
 Requirements
 ------------
 
-The segmenting algorithms use NumPy's least squares fitting routine, so naturally it depends on NumPy.
+The segmenting algorithms use [NumPy's][numpy] least squares fitting routine, so naturally it depends on [NumPy][numpy].
 
 Example
 -------
@@ -30,7 +30,7 @@ The example uses ECG data I found on an [ECG data site][ecg].
 References
 ----------
 
-[keogh]: http://www.cs.ucr.edu/~eamonn/icdm-01.pdf
-[numpy]: http://numpy.scipy.org
-[mpl]: http://matplotlib.sourceforge.net
-[ecg]: http://myweb.msoe.edu/~martynsc/signals/ecg/ecg.html
+[keogh]: http://www.cs.ucr.edu/~eamonn/icdm-01.pdf "Keogh et al. An Online Algorithm for Segmenting Time Series"
+[numpy]: http://numpy.scipy.org "NumPy"
+[mpl]: http://matplotlib.sourceforge.net "Matplotlib"
+[ecg]: http://myweb.msoe.edu/~martynsc/signals/ecg/ecg.html "ECG Data"
